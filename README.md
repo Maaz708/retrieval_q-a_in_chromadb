@@ -25,6 +25,11 @@ A simple Retrieval-Augmented Generation (RAG) project built using LangChain, Chr
 
 The system retrieves relevant article chunks and generates an answer based on the retrieved information.
 
+## Screenshot(output)
+
+<img width="1241" height="631" alt="Screenshot 2026-06-14 214632" src="https://github.com/user-attachments/assets/a3d8c856-d418-4d0a-bff0-980394b2d74b" />
+
+
 ## Key Learnings
 
 * Retrieval-Augmented Generation (RAG)
